@@ -40,7 +40,7 @@ global.linkgc = 'https://mez.ink/botwhatsapp'
 global.linkig = 'https://mez.ink/botwhatsapp'
 global.deslink = 'https://mez.ink/botwhatsapp'
 global.logo = 'https://telegra.ph/file/d1011c8e279a6bf8c62d8.jpg'
-global.titlink = 'Folllow me on Instagram'
+global.titlink = 'masuk group'
 global.bodlink = '@boy01'
 
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
